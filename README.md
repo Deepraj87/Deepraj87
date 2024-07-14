@@ -1,16 +1,17 @@
 ![logo](https://github.com/Deepraj87/movie-recom/blob/main/Designer.png)
 
+
+
 <h1 align="center">Hi 👋, I'm Deepraj Majumder</h1>
 <h3 align="center">A passionate Machine learning and AI Learner</h3>
-
-
-<image align ="right" alt="coding" width = "400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepraj87&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj87" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **shundeepmajumder3@gmail.com**
+
+<image align ="right" alt="coding" width = "400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepraj87&show_icons=true&locale=en" alt="deepraj87" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepraj87&" alt="deepraj87" /></p>
+
+
 
